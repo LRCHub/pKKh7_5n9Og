@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Future Designer",
   "base_artist": "ストレイライト",
-  "createdAt": "2026-01-04T12:15:27.611521Z",
+  "createdAt": "2026-03-19T15:19:35.679641Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -13,12 +13,156 @@
       "path": "select/01_Future_Designer_ストレイライト.txt"
     },
     {
-      "id": "petitlyrics_1",
-      "source": "petitlyrics",
-      "title": "Future Designer",
-      "artist": "ストレイライト",
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Designer",
+      "artist": "Lil Herb",
+      "has_synced": true,
+      "path": "select/02_Designer_Lil_Herb.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "designer noose",
+      "artist": "Smrtdeath",
       "has_synced": false,
-      "path": "select/pl_01_Future_Designer_ストレイライト.txt"
+      "path": "select/03_designer_noose_Smrtdeath.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Designer Behavior",
+      "artist": "MD.45",
+      "has_synced": true,
+      "path": "select/04_Designer_Behavior_MD.45.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Designer Talk",
+      "artist": "Lil Tracy feat. Lil Keed",
+      "has_synced": true,
+      "path": "select/05_Designer_Talk_Lil_Tracy_feat._Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Designer Talk",
+      "artist": "Lil Keed & Lil Tracy",
+      "has_synced": true,
+      "path": "select/06_Designer_Talk_Lil_Keed_&_Lil_Tracy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Designer Skyline",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/07_Designer_Skyline_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Graphic Designer",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/08_Graphic_Designer_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Designer",
+      "artist": "Chief Keef",
+      "has_synced": true,
+      "path": "select/09_Designer_Chief_Keef.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Artificial Heart Designer",
+      "artist": "The Prids",
+      "has_synced": false,
+      "path": "select/10_Artificial_Heart_Designer_The_Prids.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Designer",
+      "artist": "Guru Randhawa feat. Yo Yo Honey Singh & Divya Khosla Kumar",
+      "has_synced": true,
+      "path": "select/11_Designer_Guru_Randhawa_feat._Yo_Yo_Honey_Singh_&_Divya_Khosla_Kumar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Designer",
+      "artist": "Guru Randhawa & Yo Yo Honey Singh",
+      "has_synced": true,
+      "path": "select/12_Designer_Guru_Randhawa_&_Yo_Yo_Honey_Singh.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Designer Behavior",
+      "artist": "MD.45",
+      "has_synced": true,
+      "path": "select/13_Designer_Behavior_MD.45.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Designer",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/14_I'm_Designer_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gangsta in Designer (No Concept)",
+      "artist": "ScHoolboy Q",
+      "has_synced": false,
+      "path": "select/15_Gangsta_in_Designer_(No_Concept)_ScHoolboy_Q.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Designer",
+      "artist": "Aldous Harding",
+      "has_synced": true,
+      "path": "select/16_Designer_Aldous_Harding.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Designer Panda",
+      "artist": "HeDLesS",
+      "has_synced": true,
+      "path": "select/17_Designer_Panda_HeDLesS.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Designer Drugs",
+      "artist": "Yesterday",
+      "has_synced": true,
+      "path": "select/18_Designer_Drugs_Yesterday.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Designer",
+      "artist": "Bas",
+      "has_synced": true,
+      "path": "select/19_Designer_Bas.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I'm Designer - UNKLE Remix",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/20_I'm_Designer_-_UNKLE_Remix_Queens_of_the_Stone_Age.lrc"
     }
   ]
 }
